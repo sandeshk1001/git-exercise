@@ -1,0 +1,6 @@
+hello 
+master
+file 
+configure 
+git 
+hub
